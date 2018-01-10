@@ -1,0 +1,173 @@
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+*, html, body, p, li, dd, blockquote {
+	font-family: 'signikaregular';
+}
+h1,h2,h3,h4,h5,h6 {
+	font-family: 'griffosfontregular';
+}
+
+body {
+	/*height: 100%;*/
+    /*min-height: 2000px;*/
+    padding-top: 50px;
+}
+
+#you-already-have-it {}
+
+.navbar {}
+
+.navbar-brand {
+	font-family: 'griffosfontregular';
+}
+
+section blockquote {
+	font-style:italic;
+	font-size:1.5em;
+    margin:20px 40px 20px;
+    color: #333;
+}
+
+.black-section,
+.white-section,
+.gray-section,
+.green-section {
+    display: block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.black-section p,
+.white-section p,
+.gray-section p,
+.green-section p,
+.black-section li,
+.white-section li,
+.gray-section li,
+.green-section li {
+    font-size:1.2em;
+    color: #333;
+}
+
+.black-section {
+    background: #000;
+}
+
+.white-section {
+    background: #fff;
+}
+.white-section dt,
+.white-section dd {
+	background: #cecece;
+    color:#333;
+    font-size:1.2em;
+}
+.white-section dt {
+	margin-bottom:0;
+	padding:16px 16px 2px;
+}
+.white-section dd {
+	margin-top:0;
+	padding:2px 16px 16px;
+    margin-bottom:20px;
+}
+
+.gray-section {
+    background: #cecece;
+}
+.green-section {
+    background: #7ccc86;
+}
+.green-section h1 {
+    color: #007f10;
+}
+
+.black-section h1,
+.black-section h2,
+.black-section p,
+.black-section li,
+.black-section blockquote {
+    color: #fff;
+}
+
+#you-dont-know {
+    background: #000 url('../img/night-dark-blur-blurred-web.jpg') no-repeat center bottom;
+}
+#all-beginnings {
+    background: #000 url('../img/mirror-light-black-glass-web.jpg') no-repeat center center;
+}
+#all-beginnings h1 {
+    margin-bottom:4px;
+}
+#all-beginnings h2 {
+    margin-top:4px;
+}
+
+/*
+#main.container a {
+    color:#9bffa7;
+    font-weight:bold;
+}
+
+#main.container .btn {
+	background:#fff;
+	color:#007f10;
+}
+#main.container .form-control {
+    border-color:#007f10;
+}
+*/
+
+
+
+/*
+ * Header
+ */
+
+.navbar {
+    background:#4d8055;
+}
+.navbar #navbar a {
+    color: #fff;
+}
+
+.navbar #navbar a:hover {
+    background: #fff;
+    color: #4d7f54;
+}
+/*
+ * Footer
+ */
+
+.footer {
+  color: #999; /* IE8 proofing */
+  color: rgba(0,0,0,.5);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top:400px;
+}
+
+.footer p {
+	text-align:center;
+}
+
+div.bg-danger {
+    padding:1em;
+    margin-bottom:0.5em;
+}
+div.bg-danger p,
+div.bg-danger li {
+    color:#000;
+    font-weight:normal;
+}
+
+@media (max-device-width: 480px) and (orientation: landscape) {
+/*
+    .navbar-brand .tagline {
+        display:none;
+    }
+*/
+}

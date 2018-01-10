@@ -1,0 +1,124 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
+        {% block head %}
+        {% endblock head %}
+        <meta name="description" content="{% block pagedescription %}{% endblock %}">
+        <meta name="keywords" content="{% block pagekeywords %}{% endblock %}">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" href="{{ SITEURL }}/theme/css/bootstrap.min.css">
+        <!--<link rel="stylesheet" href="{{ SITEURL }}/theme/css/bootstrap-theme.min.css">-->
+        <link rel="stylesheet" href="{{ SITEURL }}/theme/css/fonts.css">
+        <link rel="stylesheet" href="{{ SITEURL }}/theme/css/main.css">
+
+        <link rel="apple-touch-icon" sizes="180x180" href="{{ SITEURL }}/theme/apple-touch-icon.png">
+        <link rel="icon" type="image/png" href="{{ SITEURL }}/theme/favicon-32x32.png" sizes="32x32">
+        <link rel="icon" type="image/png" href="{{ SITEURL }}/theme/favicon-16x16.png" sizes="16x16">
+        <link rel="manifest" href="{{ SITEURL }}/theme/manifest.json">
+        <link rel="mask-icon" href="{{ SITEURL }}/theme/safari-pinned-tab.svg" color="#5bbad5">
+        <meta name="theme-color" content="#ffffff">
+        <script src="{{ SITEURL }}/theme/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+        <script src="//cdn.jsdelivr.net/g/jquery@1.11.2"></script>
+        <script>window.jQuery || document.write('<script src="{{ SITEURL }}/theme/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+        <!--<script type="text/javascript">
+          var _paq = _paq || [];
+          _paq.push(['trackPageView']);
+          _paq.push(['enableLinkTracking']);
+          (function() {
+            var u="//a.jogral.co/";
+            _paq.push(['setTrackerUrl', u+'piwik.php']);
+            _paq.push(['setSiteId', '1']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+          })();
+        </script>
+        <noscript><p><img src="//a.jogral.co/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>-->
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '145373539336536'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=145373539336536&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+    </head>
+    <body>
+      {% block add_modal %}{% endblock %}
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        <nav class="navbar navbar-default navbar-fixed-top">
+          <div class="container">
+            <a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="/">
+                <img src="{{ SITEURL }}/theme/img/jogral-logo-web-white.svg" height="40" alt="Jogral" title="Jogral">
+              </a>
+            </div><!--/.navbar-header-->
+            <div id="navbar" class="navbar-collapse collapse">
+              <ul class="nav navbar-nav">
+                <li><a href="/">Home</a></li>
+                <li><a href="{{ SITEURL }}">Blog</a></li>
+                <li><a href="https://forums.jogral.co/">Forums</a></li>
+                {% if DISPLAY_CATEGORIES_ON_MENU -%}
+                {% endif %}
+              </ul>
+            </div><!--/.navbar-collapse-->
+          </div><!--/.container-->
+        </nav>
+
+        <div id="content">
+          <section class="">
+            <div class="container">
+              <div class="row">
+                <div class="col-lg-10 col-md-10">
+                  {% block content %}
+                  {% endblock %}
+                </div>
+                <div class="col-lg-2 col-md-2">
+                  <div class="sidebar-module">
+                    <h4>Categories</h4>
+                    <ol class="list-unstyled">
+                      {% for cat, null in categories %}
+                      <li{% if cat == category %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+                      {% endfor %}
+                    </ol>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+        </div>
+
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">&copy; 2017 Jogral, <abbr>LLC</abbr>.<br> All technologies, languages, etc. are property of their respective owners.</p>
+          </div>
+        </footer>
+
+        <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="{{ SITEURL }}/theme/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+        <script src="{{ SITEURL }}/theme/js/vendor/bootstrap.min.js"></script>
+
+        <script src="{{ SITEURL }}/theme/js/plugins.js"></script>
+        <script src="{{ SITEURL }}/theme/js/main.js"></script>
+        <script src="{{ SITEURL }}/theme/js/vendor/ie10-viewport-bug-workaround.js"></script>
+    </body>
+</html>

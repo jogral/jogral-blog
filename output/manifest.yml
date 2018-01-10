@@ -1,0 +1,12 @@
+---
+applications:
+- name: jogral-blog
+  buildpack: https://github.com/cloudfoundry/staticfile-buildpack
+  instances: 1
+  memory: 64M
+  command: null
+  routes:
+  - route: jogral.co/blog
+  - route: www.jogral.co/blog
+  env:
+    FORCE_HTTPS: true

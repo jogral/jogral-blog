@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>The Jogral Blog - Business</title><link href="https://jogral.co/blog/" rel="alternate"></link><link href="https://jogral.co/blog/feeds/business.atom.xml" rel="self"></link><id>https://jogral.co/blog/</id><updated>2017-05-15T12:00:00-05:00</updated><entry><title>Jogral's changed its focus to learning. Here's why.</title><link href="https://jogral.co/blog/a/2017/05/15/weve-changed-focus-heres-why/" rel="alternate"></link><published>2017-05-15T12:00:00-05:00</published><updated>2017-05-15T12:00:00-05:00</updated><author><name>Donald Wilcox</name></author><id>tag:jogral.co,2017-05-15:/blog/a/2017/05/15/weve-changed-focus-heres-why/</id><summary type="html">&lt;p&gt;&lt;img src="/blog/static/images/weve-changed-focus-heres-why/teaching.jpeg" alt="Teaching" class="center-block img-responsive"&gt;&lt;/p&gt;
+&lt;p&gt;Sorry for that clickbaity headline (Hey, we told you what we were doing in the headline, right?), but I wanted to update everyone on what's been happening, and get a little personal.&lt;/p&gt;
+&lt;h2&gt;My Story, Briefly&lt;/h2&gt;
+&lt;p&gt;The first 2 times I started a business, I was doing them in response to …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;img src="/blog/static/images/weve-changed-focus-heres-why/teaching.jpeg" alt="Teaching" class="center-block img-responsive"&gt;&lt;/p&gt;
+&lt;p&gt;Sorry for that clickbaity headline (Hey, we told you what we were doing in the headline, right?), but I wanted to update everyone on what's been happening, and get a little personal.&lt;/p&gt;
+&lt;h2&gt;My Story, Briefly&lt;/h2&gt;
+&lt;p&gt;The first 2 times I started a business, I was doing them in response to one major event that would've affected something I took seriously. I was 17 the first time, 19 the second. Both of the times my business was my job, rather than running a business on the side. For the latter half of my 20s, though, I did just that, hoping I'd figure out what I wanted.&lt;/p&gt;
+&lt;p&gt;The differences between me as a 17 and 19-year-old starting a business versus today are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I had 2 things pushing me&lt;/li&gt;
+&lt;li&gt;I dragged my feet on this until I found an actual business problem to solve&lt;/li&gt;
+&lt;li&gt;I'm not using PHP&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;For the latter half of my 20s, though, I [worked a normal job], hoping I'd figure out what I wanted.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;The Self-Assessment&lt;/h2&gt;
+&lt;p&gt;The 2 things that pushed me were 1) the nay-saying of focusing on teaching development and 2) being laid off (on my birthday, no less). That gave me 3 months to find a job, but I already knew I wasn't going to fit at any company I tried, no matter my accomplishments.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;What do I want?&lt;/em&gt; I thought. &lt;em&gt;To work for my customers or a company?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Let me say that when I hated being an employee, I mean I &lt;em&gt;really&lt;/em&gt; hated it. As much as I hate the Brazilian version of the talk show &lt;em&gt;&lt;a href="https://en.wikipedia.org/wiki/Casos_de_Família"&gt;Casos de Família&lt;/a&gt;&lt;/em&gt;. Or like I hate property taxes. Or shellfish. (Seriously, though. &lt;em&gt;Casos de Família&lt;/em&gt; is the worst.) At this point, I'd finally felt I found what I wanted to do in teaching, and after having done it &lt;em&gt;pro bono&lt;/em&gt; at my last job, I saw the opportunity to teach development.&lt;/p&gt;
+&lt;h2&gt;The Problem&lt;/h2&gt;
+&lt;p&gt;Employers, recruiters, and candidates all showed me that something was missing in our industry. We have so many opportunities for learning development, but there's still a missing piece of the puzzle. &lt;a href="https://www.coursereport.com/reports/2016-coding-bootcamp-job-placement-demographics-report#Table6"&gt;Almost 90% of bootcamp students are there specifically for employment&lt;/a&gt;, but recruiters and employers are reticent to &lt;em&gt;hire&lt;/em&gt; those graduates. When I asked why, sure enough, that missing piece was why.&lt;/p&gt;
+&lt;p&gt;&lt;img src="/blog/static/images/weve-changed-focus-heres-why/idea.jpeg" alt="Idea" class="center-block img-responsive"&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;What do I want?&lt;/em&gt; I thought. &lt;em&gt;To work for my customers or a company?&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;The Reality&lt;/h2&gt;
+&lt;p&gt;But I got a lot of distractions once I saw the need and started working on it, so I considered my requirements:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I only had a month and half. (The remaining 90 days would have to be commercializing the product.)&lt;/li&gt;
+&lt;li&gt;I wanted to reach people located anywhere.&lt;/li&gt;
+&lt;li&gt;I wanted something to help employers accelerate their business.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I'd been eager to take advice before, as a way to acknowledge I know nothing. But it was here that I realized because of these 3 things, I'm not taking or asking for advice. (I got pretty good at politely listening, considering the advice, and going forward with what I planned.) No matter what people told me, I knew anything else I did would affect one of these 3 things. I wasn't going to budge on them. I wasn't looking to get featured on some social networking site, get praised for something I haven't even done yet, or jump into doing a different version of the same things I've been doing for 11 years. I found a problem, and I wanted to solve it.&lt;/p&gt;
+&lt;h2&gt;And Now, the Solution&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;No matter what people told me, I knew anything else I did would affect one of these 3 things. I wasn't going to budge on them. [...] I found a problem, and I wanted to solve it.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;So what does Jogral do now? We teach software development for the real world. We have micro-courses on topics that matter. And we'll be adding more as we progress. We want to make training something worth doing rather than a diversion from work we need to do.&lt;/p&gt;
+&lt;p&gt;Now, when someone asks if Jogral builds app for people or provides support for something, the answer will be: "Sorry! We don't do that anymore. But work with us, and we'll show you how to do it!"&lt;/p&gt;</content><category term="business"></category><category term="learning"></category><category term="developers"></category><category term="jogral"></category></entry><entry><title>Better Understanding Tech: how to keep your sanity and your money</title><link href="https://jogral.co/blog/a/2017/03/01/better-understanding-tech-how-to-keep-your-sanity-and-your-money/" rel="alternate"></link><published>2017-03-01T21:30:00-06:00</published><updated>2017-03-01T21:30:00-06:00</updated><author><name>Jogral</name></author><id>tag:jogral.co,2017-03-01:/blog/a/2017/03/01/better-understanding-tech-how-to-keep-your-sanity-and-your-money/</id><summary type="html">&lt;p&gt;&lt;img src="/blog/static/images/better-understanding-tech-how-to-keep-your-sanity-and-your-money/euros.jpeg " alt="Money" class="center-block img-responsive"&gt;&lt;/p&gt;
+&lt;p&gt;At Jogral, we've worked with several digital marketing agencies (and some of us started our careers at digital marketing startups!),
+and often we watch them struggle with being a marketing business that heavily depends on technology. Marketing is one of the best
+ways for technology to show major benefits, and …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;img src="/blog/static/images/better-understanding-tech-how-to-keep-your-sanity-and-your-money/euros.jpeg " alt="Money" class="center-block img-responsive"&gt;&lt;/p&gt;
+&lt;p&gt;At Jogral, we've worked with several digital marketing agencies (and some of us started our careers at digital marketing startups!),
+and often we watch them struggle with being a marketing business that heavily depends on technology. Marketing is one of the best
+ways for technology to show major benefits, and, of course, one of those areas is in &lt;a href="https://martechtoday.com/algorithms-advertising-7-steps-introducing-ai-marketing-195037"&gt;artificial intelligence&lt;/a&gt;.
+&lt;a href="https://www.amplero.com"&gt;Amplero&lt;/a&gt; is one such company focusing the latest in AI into helping marketers. We call this intersection of marketing and technology, naturally,
+&lt;a href="https://martechtoday.com/library/what-is-martech"&gt;martech&lt;/a&gt;, and it's a great application of all the math(s) I went to grad school for and the theoretical computer science
+classes I took.&lt;/p&gt;
+&lt;p&gt;Marketing &lt;em&gt;agencies&lt;/em&gt; come in all shapes and sizes, though, and when tasked with work with a lot of technical components and comparatively fewer marketing work,
+some agencies get into an existential frenzy over being a full-service agency. Even interactive agencies take the plunge into nihilism as they jump into a project
+with so many uncertainties.&lt;/p&gt;
+&lt;p&gt;I recently attended a meetup on starting a career in the technology landscape, and what I heard from some of the owners of technical companies there is something I've
+heard from entrepreneurs for years: take as much (paid) work as you can, even if you don't know how to do it. And when that happens, you don't want to make mistakes that
+result in lost customers and revenue. Today, we're going to talk about how to mitigate that.&lt;/p&gt;
+&lt;h2&gt;Prepare to Price&lt;/h2&gt;
+&lt;p&gt;I've seen many small-to-mid-sized agencies not go through any sizing process during pricing. In fact, I've found them using these methods to price:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Guessing&lt;/li&gt;
+&lt;li&gt;By the customer's budget&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;For those of you guessing, the plane to Losing Money-ville leaves out of Gate 1. If you're going on customer budget, you're on standby. Why? It's hard to guess something
+you haven't done, and if you &lt;em&gt;have&lt;/em&gt; done it, it's too easy to underestimate What Can Go Wrong&amp;trade;. And if you go by the customer budget, you'll also contend with
+What Can Go Wrong&amp;trade; in the form of letting the customer tell you what you're worth... &lt;em&gt;if&lt;/em&gt; you're not careful.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What to do:&lt;/strong&gt; Ask the team (or person) to estimate the effort/cost of the parts of the project they're going to work on. (You &lt;em&gt;did&lt;/em&gt; make sure you have someone who can
+do the work, right?) You've got two options: if the customer gave you a budget, find out what is doable for your proposal; or make your proposal based on the effort and
+cost required.&lt;/p&gt;
+&lt;h2&gt;Expect the Unexpected&lt;/h2&gt;
+&lt;p&gt;Although I may have just made an esoteric reference to a 90's cartoon, it still fits. &lt;a href="http://widgetsandshit.com/teddziuba/2011/04/amazon-the-purpose-of-pain.html"&gt;Things happen&lt;/a&gt;,
+and the best way to deal is to plan for it. We had to do this last year when one of the APIs we were using introduced a bug in their API, and the customer told us. We had to quickly
+change it to adjust to the new "feature" until they fixed it, which took about a week. When you're working on something, especially &lt;strong&gt;new technology&lt;/strong&gt;, there's all kinds of problems
+that come up with the software you'll be using, especially when you need to scale. When you have customers, you never know what will happen until it happens.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What to do:&lt;/strong&gt; Your price, your project timeline, and your communication need to include the What Can Go Wrong&amp;trade;. Your pricing should include time it will take for
+environmental technical idiosyncrasies (see &lt;em&gt;Prepare to Price&lt;/em&gt;), your project timeline needs to give extra time for surprises, and you must communicate
+to your customer what your assumptions are for the project and the customer and note that any deviation from this results in What Can Go Wrong&amp;trade;.&lt;/p&gt;
+&lt;h2&gt;Make your contracts clear&lt;/h2&gt;
+&lt;p&gt;A good thing I've seen is that everyone always states in proposals and contracts what they'll do&amp;mdash;you kinda have to. What I don't see is what you &lt;em&gt;won't&lt;/em&gt; do.
+But wait! Did I just contradict the "take as much work as you can" statement? Not at all. See, you can accept as much as you want, but your proposals should not.
+I've seen it happen many times. An agency picks up a job, defines the work, and then a customer asks for a "quick" favor that ends up being a project in itself.
+And this isn't exclusive to small business, either.&lt;/p&gt;
+&lt;p&gt;When I was hiring and work with agencies at a large corporation, my bosses would tell me to delegate these "quick favors" to them specifically because the agency itself,
+specifically because their contract stated they could. And the agency didn't get paid for it. Another agency ended up &lt;em&gt;losing&lt;/em&gt; money by clearly and consistenly outlining
+what's included and not.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What to do:&lt;/strong&gt; You've probably figured it out: make sure your contracts explicitly state what is and is not included in your pricing. To most people, this is counterintuitive,
+but every business I've worked well with does this. And they're &lt;em&gt;successful&lt;/em&gt;. The reason for this is that it's far too easy to get over-extended and over-worked. But consider it
+an opportunity. By doing this, you've got more time, which means more time closing business, and you have an upsell opportunity. Remember: you can take on the additional work,
+and now it's worth more.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;These suggestions are based on tough experiences, and I know it's not easy to see why you've got to do it. You're professionals, you're busy, and you're trying to run a business.
+You owe it to your customers to give them professional service and expertise.&lt;/p&gt;</content><category term="business"></category><category term="pricing"></category><category term="understanding"></category><category term="technology"></category><category term="cost"></category></entry><entry><title>Better Understanding Tech: 4 Questions that cost your business time and money</title><link href="https://jogral.co/blog/a/2017/02/01/better-understanding-tech-4-questions-that-cost-your-business-time-and-money/" rel="alternate"></link><published>2017-02-01T23:30:00-06:00</published><updated>2017-02-01T23:30:00-06:00</updated><author><name>Jogral</name></author><id>tag:jogral.co,2017-02-01:/blog/a/2017/02/01/better-understanding-tech-4-questions-that-cost-your-business-time-and-money/</id><summary type="html">&lt;p&gt;&lt;img src="/blog/static/images/better-understanding-tech-4-questions-that-cost-your-business-time-and-money/frustrated.jpeg" alt="A frustrated person" class="center-block img-responsive"&gt;&lt;/p&gt;
+&lt;p&gt;This past weekend, I was lurking Reddit's small business subreddit, debating if I wanted to create an account or not. I had been facing some
+challenges, and I was curious how others in business overcame them.&lt;/p&gt;
+&lt;p&gt;Eventually, I looked at what &lt;em&gt;software&lt;/em&gt; businesses were doing, and came across some enterprising …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;img src="/blog/static/images/better-understanding-tech-4-questions-that-cost-your-business-time-and-money/frustrated.jpeg" alt="A frustrated person" class="center-block img-responsive"&gt;&lt;/p&gt;
+&lt;p&gt;This past weekend, I was lurking Reddit's small business subreddit, debating if I wanted to create an account or not. I had been facing some
+challenges, and I was curious how others in business overcame them.&lt;/p&gt;
+&lt;p&gt;Eventually, I looked at what &lt;em&gt;software&lt;/em&gt; businesses were doing, and came across some enterprising technologists asking business owners about
+the challenges they face &lt;strong&gt;that could be solved with software&lt;/strong&gt;. Feedback was all over the board, but some of that advice
+was spot on, while nearly every answer pointed to a bigger problem: not knowing value. Why should anyone ever spend money on technology?&lt;/p&gt;
+&lt;p&gt;For technology businesses, this is a challenge when trying to get customers. It's like there's always a big sign saying &lt;em&gt;WHO CARES&lt;/em&gt; whenever
+talking to a business about what technology can do. But surprisingly, as business owners, &lt;em&gt;not&lt;/em&gt; knowing about technology is just as challenging
+because of the ever-prevalent cliché that *&lt;em&gt;you don't know what you don't know&lt;/em&gt;&amp;amp;.&lt;/p&gt;
+&lt;p&gt;We made a special page partially addressing that issue, but for today, we're going to look at some common questions we've seen/heard, a short
+explanation, and our recommendation for each question.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;But surprisingly, as business owners, &lt;em&gt;not&lt;/em&gt; knowing about technology is just as challenging because of the ever-prevalent cliché that &lt;strong&gt;you don't know what you don't know&lt;/strong&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;"How do you make an app?"&lt;/h2&gt;
+&lt;p&gt;&lt;img src="/blog/static/images/better-understanding-tech-4-questions-that-cost-your-business-time-and-money/startup-photos.jpg" alt="Project planning" class="center-block img-responsive"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This is the most important question, because it relates to every other problem.&lt;/strong&gt; Almost every app developer will say, "It depends." Because it does.
+The needs of a medical device company, as well as the existing technologies they have, will require a different approach than a chocolatier. But
+honestly, the biggest factor is &lt;em&gt;their existing IT environment&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Recommendation:&lt;/strong&gt; Ask more pointed, specific-to-your-business. If you &lt;a href="/a/choose-goals-not-technology-to-grow-your-business"&gt;consider your business before your tech&lt;/a&gt;,
+this should be easy. If you think you need an app to, say, streamline placing orders to your vendors, ask how to build &lt;em&gt;that&lt;/em&gt; app.&lt;/p&gt;
+&lt;h2&gt;"Why is there no...?"&lt;/h2&gt;
+&lt;p&gt;It's not so much that a tool or technology doesn't exist, it's that it's either too expensive or would be too customized. In the case of integrating between two
+systems, it's usually a combination. Either way, the reality is the technology does exist or could be made, but you'll probably need someone to build that (see #1)
+or pony up a lot of cash. If a consultant or firm is subtly trying to push using another tool (or upgrade), ease of integration is probably the reason.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Recommendation:&lt;/strong&gt; Ask about the integration capabilities of the tools you are using. Sometimes, that means you'll eventually get a "We'll look into that for you," but
+a &lt;em&gt;good&lt;/em&gt; developer will know what to look into.&lt;/p&gt;
+&lt;h2&gt;"Can I let my web designer build my app?"&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Doing this will lead to pain.&lt;/strong&gt; I've seen many businesses just have one person do (or try to do) work separate from what they were hired or can do. Technical roles
+are not interchangeable, and treating them that way will result in degraded work, additional cost, and frustration. It's much better to find out &lt;em&gt;which&lt;/em&gt; role does what.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Recommendation:&lt;/strong&gt; There are many titles for this type of person, but find a trusted technical architect/advisor/CTO who can help you understand who should do what.
+Simply tell them what you're trying to do and ask for guidance on figuring out the right type of professional. This will actually benefit you and the technologists
+out there, since this problem frustrates IT professionals as much as it does business owners.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Technical roles are not interchangeable, and treating them that way will result in degraded work, additional cost, and frustration.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;"How can I get technical staff to understand my requirements?"&lt;/h2&gt;
+&lt;p&gt;&lt;img src="/blog/static/images/better-understanding-tech-4-questions-that-cost-your-business-time-and-money/explanation.jpeg" alt="Woman in Gray Shirt Seating in Between Woman in Blue Black and White Plaid Long Sleeve Shirt and Man in Blue White and Black Plaid Long Sleeve Shirt Having Conversation" class="center-block img-responsive"&gt;&lt;/p&gt;
+&lt;p&gt;Someone who understands business &lt;em&gt;and&lt;/em&gt; technology (i.e., has been "in the trenches" for a substantial period of time) is not easy to find. Business owners are
+"stuck" trying to explain their needs, with little success. "Just tell me what I need!" is a common complaint.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Recommendation:&lt;/strong&gt; This was also mentioned on one of the Reddit posts: use user stories. &lt;a href="https://en.wikipedia.org/wiki/Garbage_in,_garbage_out"&gt;Garbage in, garbage out&lt;/a&gt;
+applies to technical requirements as much as it does the technology itself. Give technical staff an opportunity to visualize users to explain requirements. In fact, this
+is &lt;a href="http://www.storyboardthat.com/articles/b/agile-user-stories"&gt;a core tenet of agile development&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Now that we have this under our belt, we will next get into what goes into the projects, and "hidden" costs that affect IT projects. Need some help until then?
+&lt;a href="mailto:contact@jogral.io"&gt;Drop us a line&lt;/a&gt;!&lt;/p&gt;</content><category term="software"></category><category term="programming languages"></category><category term="business"></category><category term="understanding"></category><category term="technology"></category><category term="cost savings"></category></entry><entry><title>Choose goals, not technology, to grow your business.</title><link href="https://jogral.co/blog/a/2017/01/11/choose-goals-not-technology-to-grow-your-business/" rel="alternate"></link><published>2017-01-11T00:00:00-06:00</published><updated>2017-01-11T00:00:00-06:00</updated><author><name>Jogral</name></author><id>tag:jogral.co,2017-01-11:/blog/a/2017/01/11/choose-goals-not-technology-to-grow-your-business/</id><summary type="html">&lt;p&gt;&lt;img src="/blog/static/images/choose-goals-not-technology-to-grow-your-business/bullseye.jpeg" alt="Bullseye" class="center-block img-responsive"&gt;&lt;/p&gt;
+&lt;p&gt;When I was a heads-down, headphones-wearing coder, I cringed whenever we had a critical project to &lt;em&gt;implement a new technology&lt;/em&gt;.
+Most of the time, these projects were only greenlit because someone in charge read or heard about something interesting or novel
+and decided we needed it. Those projects usually failed …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;img src="/blog/static/images/choose-goals-not-technology-to-grow-your-business/bullseye.jpeg" alt="Bullseye" class="center-block img-responsive"&gt;&lt;/p&gt;
+&lt;p&gt;When I was a heads-down, headphones-wearing coder, I cringed whenever we had a critical project to &lt;em&gt;implement a new technology&lt;/em&gt;.
+Most of the time, these projects were only greenlit because someone in charge read or heard about something interesting or novel
+and decided we needed it. Those projects usually failed. In grad school, I wrote a research paper on why tech projects fail,
+and in one study&lt;sup&gt;1&lt;/sup&gt;, poor planning, misunderstanding requirements, and unrealistic expectations were the causes leading to failure
+&lt;strong&gt;before the projects even began&lt;/strong&gt;. Technology projects lend themselves well to these problems.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In one study, poor planning, misunderstanding requirements, and unrealistic expectations were the causes, leading to failure
+&lt;strong&gt;before the projects even began&lt;/strong&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;So, with ideas like data science, deep learning, "Internet of Things," artificial intelligence, cognitive computing, etc. being en vogue right now, the
+best way to get on the "cutting edge" of technology is to &lt;strong&gt;stop thinking about them&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;If you ever found yourself enamored or mystified by things likes &lt;strong&gt;&lt;a href="https://www.amazon.com/b?ie=UTF8&amp;amp;node=16008589011"&gt;Amazon Go&lt;/a&gt;/&lt;a href="http://www.inquisitr.com/2924247/unmanned-minnesota-organic-food-store-transforms-grocery-store-model-with-technology/"&gt;unmanned grocery stores&lt;/a&gt;&lt;/strong&gt;,
+&lt;strong&gt;autonomous cars&lt;/strong&gt;, or &lt;strong&gt;predictive modeling&lt;/strong&gt;, consider why these technologies exist. Do they exist out of necessity or
+to find something to brag about during happy hour?&lt;/p&gt;
+&lt;p&gt;&lt;img src="/blog/static/images/choose-goals-not-technology-to-grow-your-business/the-plan.jpeg" alt="The plan" class="center-block img-responsive"&gt;&lt;/p&gt;
+&lt;p&gt;I read a comment on LinkedIn once from someone who said R&amp;amp;D and not "high school diplomas" will drive technology innovation. This kind of thinking
+is how we fall into the trap of seeking buzzwords instead of business. Technologies&amp;mdash;like the mathematics that helped make them&amp;mdash;are valuable
+once there's an application. Have you ever seen a technology you thought was neat but you saw no practical application for?
+Your strategy for your business and its success depend on you knowing the business goal.&lt;/p&gt;
+&lt;p&gt;We had a business goal of having a maintainable way to keep track of customers we've talked to in a painless way while also being able to use that activity
+to evaluate where we can improve and where we already excel. You probably recognize that in this simple scenario, we were looking for a CRM, but by having
+these goals, we knew what we were trying to do and ultimately what our requirements were, and validating selections against our goals made us set realistic expectations.
+We didn't get a CRM, because every company I've ever worked for has one. We got it, because it's a great way to solve our problem.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Nobody buys or invests in something because of features. They buy, because the product helps them achieve their goal.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;What we and what retailers did was make technology a &lt;em&gt;component&lt;/em&gt; of our goal. As a programmer, I&amp;mdash;and others in-the-know about computer hardware&amp;mdash;often say
+Apple computers have relatively inferior hardware. Then, why is a company like that successful? Their goal is to make a luxury item that feels exclusive,
+convenient, and simple, and so they emphasize &lt;em&gt;design&lt;/em&gt; over features. Nobody buys or invests in something because of features. They buy, because the product
+helps them achieve their goal.&lt;/p&gt;
+&lt;p&gt;When you are running a business, you should always be strategizing and setting goals. Look at where you want your business to go, then think about how technology
+can help you get there.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;So what if you're not sure which technologies are the right ones for your goals? Don't hesitate to &lt;a href="mailto:contact@jogral.io"&gt;send us an email&lt;/a&gt; for help!
+Let's talk about what your business needs for success!&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Study is from "Software Engineering Projects May Fail Before They Are Started: Post-mortem Analysis of Five Cancelled Projects" by Jarmo Ahonen and Paula Savolainen
+in the &lt;cite&gt;Journal of Systems and Software&lt;/cite&gt;.&lt;/li&gt;
+&lt;/ol&gt;</content><category term="technology"></category><category term="vendor shopping"></category><category term="business"></category><category term="ai"></category><category term="data science"></category></entry></feed>

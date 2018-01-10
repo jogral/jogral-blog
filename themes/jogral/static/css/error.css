@@ -1,0 +1,21 @@
+html, body {
+    height: 100%;
+    background:#68ccac; /* #209973 */
+}
+.main {
+    height: 100%;
+    width: 100%;
+    display: table;
+}
+.wrapper {
+    display: table-cell;
+    height: 100%;
+    vertical-align: middle;
+    text-align:center;
+}
+
+.wrapper h1,
+.wrapper p,
+.wrapper a {
+    color: #fff;
+}

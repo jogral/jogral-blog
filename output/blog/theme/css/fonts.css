@@ -1,0 +1,100 @@
+@font-face {
+    font-family: 'signikabold';
+    src: url('../fonts/signika-bold-webfont.woff2') format('woff2'),
+         url('../fonts/signika-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'signikalight';
+    src: url('../fonts/signika-light-webfont.woff2') format('woff2'),
+         url('../fonts/signika-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'signikaregular';
+    src: url('../fonts/signika-regular-webfont.woff2') format('woff2'),
+         url('../fonts/signika-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'signikasemibold';
+    src: url('../fonts/signika-semibold-webfont.woff2') format('woff2'),
+         url('../fonts/signika-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'griffosfontregular';
+    src: url('../fonts/GriffosFont-webfont.eot');
+    src: url('../fonts/GriffosFont-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/GriffosFont-webfont.woff') format('woff'),
+         url('../fonts/GriffosFont-webfont.ttf') format('truetype'),
+         url('../fonts/GriffosFont-webfont.svg#griffosfontregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'griffosscapsfontregular';
+    src: url('../fonts/GriffosSCapsFont-webfont.eot');
+    src: url('../fonts/GriffosSCapsFont-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/GriffosSCapsFont-webfont.woff') format('woff'),
+         url('../fonts/GriffosSCapsFont-webfont.ttf') format('truetype'),
+         url('../fonts/GriffosSCapsFont-webfont.svg#griffosscapsfontregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'oxygenitalic';
+    src: url('../fonts/oxygenjog-italic-webfont.woff2') format('woff2'),
+         url('../fonts/oxygenjog-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'oxygenregular';
+    src: url('../fonts/oxygenjog-webfont.woff2') format('woff2'),
+         url('../fonts/oxygenjog-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'oxygenbold';
+    src: url('../fonts/oxygenjog-bold-webfont.woff2') format('woff2'),
+         url('../fonts/oxygenjog-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'oxygenbold_italic';
+    src: url('../fonts/oxygenjog-bolditalic-webfont.woff2') format('woff2'),
+         url('../fonts/oxygenjog-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
